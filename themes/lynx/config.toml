@@ -14,6 +14,7 @@ headline = "Sr. Data Scientist | Generative Artist"
 # image = "img/author.jpg"  # path relative to static directory
 
 links = [
+  { link-takipci = { href = "https://cobanov.dev/instagram", text = "Instagram Takip" } },
   { email = "mailto:mertcobanov.com" },
   { link = "https://blog.cobanov.dev/" },
   # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },

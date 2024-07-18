@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/cobanov-air/webapps/cobanov-dev",
+	"sourceRoot": "/Users/cobanov-air/cobanov-dev",
 	"sources": [
 		"ananke/css/main.css"
 	],
